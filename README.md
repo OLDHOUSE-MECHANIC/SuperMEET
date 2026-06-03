@@ -35,6 +35,11 @@ SupaMeet backend/
 │   │   │   ├── meetings.routes.js
 │   │   │   ├── meetings.controller.js
 │   │   │   └── meetings.service.js
+│   │   ├── transcript/
+│   │   │   ├── transcript.routes.js
+│   │   │   ├── transcript.controller.js
+│   │   │   ├── transcript.service.js
+│   │   │   └── transcript.chunker.js  
 │   │   ├── analysis/
 │   │   │   ├── analysis.routes.js
 │   │   │   ├── analysis.controller.js
