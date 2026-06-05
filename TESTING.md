@@ -24,6 +24,8 @@ Run with:
 npm install
 npm test
 ```
+<img width="1133" height="534" alt="image" src="https://github.com/user-attachments/assets/52c665d9-9e52-4644-8442-ac7535769f24" />
+-
 
 ## Manual API Testing
 
