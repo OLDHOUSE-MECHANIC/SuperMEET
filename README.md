@@ -5,6 +5,7 @@ AI-powered meeting intelligence service. Real-time transcript chunking, phased c
 
 ## Live-Demo 
 try now at: https://supameet-eptu.onrender.com/api/docs/  
+or watch a poorly produced walkthrough: https://drive.google.com/file/d/152QpILQ_c0YuL2mcbU-e6m9-1bho8lcX/preview
 
 ---
   
