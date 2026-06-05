@@ -51,6 +51,11 @@ app.get('/api/evaluation', (req, res) => {
   });
 });
 
+// Root Route
+app.get('/', (req, res) => {
+  res.json({ message: 'SupaMeet API', docs: '/api/docs', health: '/health' });
+});
+
 // API Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/meetings', meetingsRoutes);
